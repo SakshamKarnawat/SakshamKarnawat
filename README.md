@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sakshamkarnawat0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-02Z9KOSIkcXgYX24PE4Qzy3Sf3A2gJi/view?usp=sharing](https://drive.google.com/file/d/1-02Z9KOSIkcXgYX24PE4Qzy3Sf3A2gJi/view?usp=sharing)
+- 📄 Know about my experiences: [Check out my Resume](https://drive.google.com/file/d/1RHb-HaPLH3bSshHmPMITlsEIrI8qnf3H/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
