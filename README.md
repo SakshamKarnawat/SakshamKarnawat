@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working in **a startup**
 
-- 🌱 I’m currently learning **Swift and SwiftUI**
+- 🌱 I’m currently learning **Swift and Go**
 
-- 👯 I’m looking to collaborate on **open-source flutter projects**
+- 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [https://sakshamkarnawat.dev](https://sakshamkarnawat.dev)
+- 👨‍💻 All of my projects are available [here](https://sakshamkarnawat.dev/projects)
 
 - 💬 Ask me about **Flutter and Dart**
 
 - 📫 How to reach me **sakshamkarnawat0@gmail.com**
 
-- 📄 Know about my experiences: [Check out my Resume](https://drive.google.com/file/d/1RHb-HaPLH3bSshHmPMITlsEIrI8qnf3H/view?usp=sharing)
+- 📄 Know about my experiences: [Check out my Resume](https://sakshamkarnawat.dev/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
