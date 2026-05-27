@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Flutter and Dart**
 
-- 📫 How to reach me **sakshamkarnawat0@gmail.com**
-
 - 📄 Know about my experiences: [Check out my Resume](https://sakshamkarnawat.dev/resume)
 
 <h3 align="left">Connect with me:</h3>
